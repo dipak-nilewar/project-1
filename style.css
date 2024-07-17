@@ -1,0 +1,26 @@
+ 
+ 
+h1{
+
+
+    color: blue;
+}
+#id1{
+    color: crimson;
+}
+#id2{
+    color: aqua;
+}
+#id3{
+    color: rgb(42, 165, 104);
+
+}
+#ye{
+    color: darkgoldenrod;
+
+}
+tr{
+    color: rgb(238, 229, 226);
+    background-color: blueviolet;
+    
+}

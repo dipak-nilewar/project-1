@@ -1,0 +1,30 @@
+#p
+{
+color: #00ffff;
+background-color: red;
+text-align: center;
+font-weight: bolder;
+font-family: monospace;
+font-style: italic;
+font-size: 30px;
+}
+.class
+{
+color: #064413;
+text-decoration: line-through;
+text-transform:uppercase;
+text-indent: 100px;
+}
+body
+{
+   background-image: url(normal.jpg) ;
+    
+}
+span
+{
+color: aqua;
+}
+h2
+{
+color: blue;
+}
